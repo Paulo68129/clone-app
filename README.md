@@ -1,2 +1,2 @@
 # clone-app
-clone-facebook-clone-spotify
+clone-facebook
